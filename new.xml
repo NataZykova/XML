@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <firstName>Nataliya</firstName>
+    <lastName>Zykova</lastName>
+    <age>39</age>
+    <pets>dog</pets>
+    <expected salary>1600</expected salary>
+    <currency>Eur</currency>
+</root>
